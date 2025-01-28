@@ -1,0 +1,9 @@
+{
+  "name": "wrapit-website-v3",
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "^4.4.9"
+  }
+}
